@@ -27,7 +27,7 @@ Suy ra syntax mở file sẽ như sau
  cat -- ./-
 ```
 
-#Flag 
+# Flag 
 ```
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 ```
