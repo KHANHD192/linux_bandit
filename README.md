@@ -1,3 +1,3 @@
 # linux_bandit
 
-### Thực hành linux 
+### Ở đây chỉ có người già mới tập linux
