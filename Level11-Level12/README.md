@@ -21,7 +21,7 @@ Có 3 thứ hay dùng
 Strings data.txt | base64 -d 
 ```
 
-# FLAG 
+# FLAG  
 ```
 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 ```
