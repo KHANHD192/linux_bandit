@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # Level 11 - Level 12  
-=======
-# LEVEL 10 - LEVEL 11
->>>>>>> cdb338434e313944747545997a172d29216f58b9
 
 ### Challnge này giúp chúng ta hiểu cách dịch(position) các bảng chữ cái như mã caesar 
 
@@ -23,5 +20,5 @@ A-Z :  sẽ được thay thế ( chia ra làm 2 bởi vì ROT13 , nửa đầu 
 
 # FLAG 
 ```
-6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 ```
